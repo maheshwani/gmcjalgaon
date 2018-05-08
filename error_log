@@ -1,0 +1,43 @@
+[09-Dec-2017 18:30:29 Asia/Kolkata] PHP Fatal error:  Call to a member function get_row() on null in /home/gmcjalga/public_html/application/controllers/Admin.php on line 27
+[16-Dec-2017 21:55:58 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[16-Dec-2017 21:57:37 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[16-Dec-2017 23:09:58 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[16-Dec-2017 23:09:58 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[16-Dec-2017 23:09:59 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 06:09:21 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 06:09:25 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:39 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:41 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:43 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:46 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:56 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:56 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 11:13:57 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 13:51:28 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 13:51:28 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 13:51:53 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 13:51:53 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:08 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:08 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:08 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:09 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:09 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:11 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 16:07:12 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 17:16:04 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 17:16:08 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 17:16:34 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 17:31:55 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 19:40:12 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 19:40:14 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 20:56:40 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[17-Dec-2017 20:56:56 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/gmcjalga/public_html/index.php on line 70
+[20-Dec-2017 12:46:44 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/gmcjalga/public_html/application/controllers/Pre_clinical.php on line 23
+[20-Dec-2017 12:47:18 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/gmcjalga/public_html/application/controllers/Pre_clinical.php on line 23
+[20-Dec-2017 12:47:24 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/gmcjalga/public_html/application/controllers/Pre_clinical.php on line 23
+[10-Jan-2018 17:08:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master_model::getMaster() in /home/gmcjalga/public_html/application/controllers/Quotation.php on line 25
+[18-Jan-2018 18:48:27 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/gmcjalga/public_html/application/controllers/Login_success.php on line 254
+[18-Jan-2018 18:48:27 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/gmcjalga/public_html/application/controllers/Login_success.php on line 254
+[18-Jan-2018 19:26:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/gmcjalga/public_html/application/controllers/Login_success.php on line 162
+[29-Jan-2018 13:30:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ')' in /home/gmcjalga/public_html/application/views/home.php on line 102
+[03-Mar-2018 14:08:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '&', expecting '(' in /home/gmcjalga/public_html/application/controllers/Clinical.php on line 100
